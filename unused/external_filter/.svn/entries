@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4"
+   name=""
+   committed-date="2007-08-11T01:09:53.669366Z"
+   url="https://qhexed.svn.sourceforge.net/svnroot/qhexed/qhexed/src/lib/plugins/filters/external"
+   last-author="exanode"
+   kind="dir"
+   repos="https://qhexed.svn.sourceforge.net/svnroot/qhexed"
+   revision="4"/>
+<entry
+   committed-rev="4"
+   name="FilterEditDialog.cc"
+   text-time="2007-08-10T20:26:13.000000Z"
+   committed-date="2007-08-11T01:09:53.669366Z"
+   checksum="4f040c9821bfb5ca2679f43c6ef6457f"
+   last-author="exanode"
+   kind="file"/>
+<entry
+   committed-rev="4"
+   name="FilterEditDialog.h"
+   text-time="2007-08-10T18:13:12.000000Z"
+   committed-date="2007-08-11T01:09:53.669366Z"
+   checksum="d0661ad9e732890124a44b1ba776d719"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-10T16:09:19.000000Z"/>
+<entry
+   committed-rev="4"
+   name="Plugin.cc"
+   text-time="2007-08-11T01:04:37.000000Z"
+   committed-date="2007-08-11T01:09:53.669366Z"
+   checksum="0851a99af528bfe96f2325fb5a4544ea"
+   last-author="exanode"
+   kind="file"/>
+<entry
+   committed-rev="4"
+   name="Plugin.h"
+   text-time="2007-08-10T19:39:54.000000Z"
+   committed-date="2007-08-11T01:09:53.669366Z"
+   checksum="b67e5c161b028700f897ddd1dbea1a8b"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-10T16:09:19.000000Z"/>
+<entry
+   committed-rev="4"
+   name="FilterDialog.cc"
+   text-time="2007-08-11T01:00:43.000000Z"
+   committed-date="2007-08-11T01:09:53.669366Z"
+   checksum="e8214e0085187743c032b204e60272b0"
+   last-author="exanode"
+   kind="file"/>
+<entry
+   committed-rev="4"
+   name="Filter.cc"
+   text-time="2007-08-10T21:42:56.000000Z"
+   committed-date="2007-08-11T01:09:53.669366Z"
+   checksum="fceaf530a40446b611fbaaf026d32765"
+   last-author="exanode"
+   kind="file"/>
+<entry
+   committed-rev="4"
+   name="Filter.h"
+   text-time="2007-08-10T18:09:25.000000Z"
+   committed-date="2007-08-11T01:09:53.669366Z"
+   checksum="9973da3330aaa65f3159d82f05a3d79f"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-10T16:09:19.000000Z"/>
+<entry
+   committed-rev="4"
+   name="FilterDialog.h"
+   text-time="2007-08-10T20:28:16.000000Z"
+   committed-date="2007-08-11T01:09:53.669366Z"
+   checksum="17073b7a9ff27df869d8516b84e3e93c"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-10T16:09:19.000000Z"/>
+<entry
+   committed-rev="4"
+   name="Makefile"
+   text-time="2007-08-10T01:22:39.000000Z"
+   committed-date="2007-08-11T01:09:53.669366Z"
+   checksum="c2b0fb77071f02190194a1f85398cf35"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-10T16:09:19.000000Z"/>
+</wc-entries>

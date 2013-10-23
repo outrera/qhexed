@@ -1,0 +1,62 @@
+#ifndef FILTERDIALOG_H
+#define FILTERDIALOG_H
+
+#include <QList>
+#include <QString>
+#include <QDialog>
+
+#include <HexPlugin.h>
+
+#include "Filter.h"
+
+
+class QPushButton;
+class QComboBox;
+
+
+class FilterDialog : public QDialog {
+	Q_OBJECT
+
+public:
+	FilterDialog(HexCursor *cur, HexTextCursor *textCur, HexEd *ed, QWidget *parent = 0);
+	~FilterDialog();
+
+	HexDocument *document() {
+		return cursor()->document();
+	}
+
+	HexCursor *cursor() {
+		return mCursor;
+	}
+
+	HexTextCursor *textCursor() {
+		return mTextCursor;
+	}
+
+private slots:
+	void filter();
+
+	void addFilter();
+	void delFilter();
+	void editFilter();
+
+private:
+	HexCursor *mCursor;
+	HexTextCursor *mTextCursor;
+
+	QList<Filter> filters;
+	QComboBox *filtersBox;
+
+	QPushButton *addButton;
+	QPushButton *delButton;
+	QPushButton *editButton;
+
+	QPushButton *filterButton;
+	QPushButton *okButton;
+
+	QString lastUsedFilter;
+
+	HexEd *mEd;
+};
+
+#endif

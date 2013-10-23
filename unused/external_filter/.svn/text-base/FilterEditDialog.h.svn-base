@@ -1,0 +1,71 @@
+#ifndef FILTEREDITDIALOG_H
+#define FILTEREDITDIALOG_H
+
+#include <QDialog>
+#include <QtGui>
+
+#include <HexPlugin.h>
+
+#include "Filter.h"
+
+class LabeledValue : public QWidget {
+	Q_OBJECT
+public:
+	LabeledValue(QString label, QString value="", QWidget *parent=0);
+
+	QLineEdit *lineEdit() {
+		return mLineEdit;
+	}
+
+public slots:
+	void setValue(QString value);
+	void textChanged(const QString & text);
+
+signals:
+	void changed();
+
+private:
+	QLineEdit *mLineEdit;
+	QLabel *mLabel;
+};
+
+class LabeledCheckBox : public QWidget {
+	Q_OBJECT
+public:
+	LabeledCheckBox(QString label, bool checked=true, QWidget *parent=0);
+
+	bool checked();
+
+signals:
+	void stateChanged(bool newState);
+	void changed();
+
+private slots:
+	void stateHandler(int state);
+
+private:
+	QLabel *mLabel;
+	QCheckBox *mCheckBox;
+};
+
+
+class FilterEditDialog : public QDialog {
+	Q_OBJECT
+
+public:
+	FilterEditDialog(Filter *f);
+	~FilterEditDialog();
+
+private slots:
+	void updateFilter();
+
+private:
+	Filter *mFilter;
+	LabeledValue *nameLV;
+	LabeledValue *commandLV;
+	LabeledValue *commentLV;
+	LabeledCheckBox *textInputLCB;
+	LabeledCheckBox *textOutputLCB;
+};
+
+#endif

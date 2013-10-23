@@ -1,0 +1,41 @@
+#ifndef FILTER_H
+#define FILTER_H
+
+#include <QString>
+#include <QMetaType>
+
+#include <HexPlugin.h>
+
+class HexCursor;
+class HexEd;
+
+class Filter {
+public:
+	Filter();
+	Filter(const Filter &filter);
+	~Filter();
+
+	void execute(HexCursor *cur, HexTextCursor *textCur, HexEd *ed);
+	int popupEditDialog();
+
+	operator QVariant() {
+		return QVariant::fromValue(QList<Filter>());
+	}
+
+	QString name;
+	QString command;
+	QString comment;
+	bool textInput;
+	bool textOutput;
+};
+
+Q_DECLARE_METATYPE(Filter)
+Q_DECLARE_METATYPE(QList<Filter>)
+
+QDataStream &operator<<(QDataStream &out, const Filter &filter);
+QDataStream &operator>>(QDataStream &in, Filter &filter);
+
+QDataStream &operator<<(QDataStream &out, const QList<Filter> &filters);
+QDataStream &operator>>(QDataStream &in, QList<Filter> &filters);
+
+#endif

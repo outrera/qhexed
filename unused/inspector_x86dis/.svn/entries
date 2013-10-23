@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-08-08T07:21:34.172055Z"
+   url="https://qhexed.svn.sourceforge.net/svnroot/qhexed/qhexed/src/lib/plugins/inspectors/x86dis"
+   last-author="exanode"
+   kind="dir"
+   uuid="52a813ba-2a37-0410-a25d-8f53c91a5765"
+   repos="https://qhexed.svn.sourceforge.net/svnroot/qhexed"
+   revision="1"/>
+<entry
+   committed-rev="3"
+   name="InspectorWidget.h"
+   text-time="2007-08-09T01:36:48.000000Z"
+   committed-date="2007-08-09T03:04:49.899261Z"
+   checksum="a8d85855873da02e1e7a3af13593e64c"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:54.000000Z"
+   revision="3"/>
+<entry
+   committed-rev="3"
+   name="Plugin.cc"
+   text-time="2007-08-09T01:33:29.000000Z"
+   committed-date="2007-08-09T03:04:49.899261Z"
+   checksum="12b82b289a40b6df2aec0af3348d7542"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:54.000000Z"
+   revision="3"/>
+<entry
+   committed-rev="3"
+   name="Panel.cc"
+   text-time="2007-08-09T02:13:33.000000Z"
+   committed-date="2007-08-09T03:04:49.899261Z"
+   checksum="d1ed97cb624c169268b17a76aab906de"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:54.000000Z"
+   revision="3"/>
+<entry
+   committed-rev="4"
+   name="Plugin.h"
+   text-time="2007-08-09T15:12:11.000000Z"
+   committed-date="2007-08-11T01:09:53.669366Z"
+   checksum="8f9bb08822bad33574464ec83b8255fb"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:54.000000Z"
+   revision="4"/>
+<entry
+   committed-rev="3"
+   name="Panel.h"
+   text-time="2007-08-09T01:34:09.000000Z"
+   committed-date="2007-08-09T03:04:49.899261Z"
+   checksum="de8b9be5d96ec0c0cb8d45912a2d1b42"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:54.000000Z"
+   revision="3"/>
+<entry
+   committed-rev="1"
+   name="x86dec.cc"
+   text-time="2007-08-08T17:20:54.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="274e09fb5aa9e03ab2b67b0523dc2024"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:54.000000Z"/>
+<entry
+   committed-rev="1"
+   name="x86dis.cc"
+   text-time="2007-08-08T17:20:54.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="62ea0b5a2f5ddc46dfe9e4ce846a400f"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:54.000000Z"/>
+<entry
+   committed-rev="3"
+   name="InspectorModel.cc"
+   text-time="2007-08-09T02:59:30.000000Z"
+   committed-date="2007-08-09T03:04:49.899261Z"
+   checksum="245cf6554b653ac3d450d889b4fd9f7c"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:54.000000Z"
+   revision="3"/>
+<entry
+   committed-rev="4"
+   name="x86.h"
+   text-time="2007-08-10T18:35:15.000000Z"
+   committed-date="2007-08-11T01:09:53.669366Z"
+   checksum="5c147fa1ec20f4e6b2dd20b46c6965b3"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:54.000000Z"
+   revision="4"/>
+<entry
+   committed-rev="3"
+   name="InspectorModel.h"
+   text-time="2007-08-09T02:15:54.000000Z"
+   committed-date="2007-08-09T03:04:49.899261Z"
+   checksum="508d5e2594be149bdfe66872270d14ae"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:54.000000Z"
+   revision="3"/>
+<entry
+   committed-rev="1"
+   name="Makefile"
+   text-time="2007-08-08T17:20:54.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="85be32c0d6f014b32c60e40ab53eea09"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:54.000000Z"/>
+<entry
+   committed-rev="3"
+   name="InspectorWidget.cc"
+   text-time="2007-08-09T02:58:37.000000Z"
+   committed-date="2007-08-09T03:04:49.899261Z"
+   checksum="d644d28701beddfae7bb73599be35510"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:54.000000Z"
+   revision="3"/>
+</wc-entries>

@@ -1,0 +1,19 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/deadbeef.png</file>
+    <file>images/copy.png</file>
+    <file>images/cut.png</file>
+    <file>images/new.png</file>
+    <file>images/open.png</file>
+    <file>images/process.png</file>
+    <file>images/load.png</file>
+    <file>images/paste.png</file>
+    <file>images/paste_over.png</file>
+    <file>images/text.png</file>
+    <file>images/save.png</file>
+    <file>images/undo.png</file>
+    <file>images/redo.png</file>
+    <file>images/book.png</file>
+</qresource>
+</RCC>
+

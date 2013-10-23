@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-08-08T07:21:34.172055Z"
+   url="https://qhexed.svn.sourceforge.net/svnroot/qhexed/qhexed/src/lib/plugins/access/UnixProcessAccess"
+   last-author="exanode"
+   kind="dir"
+   uuid="52a813ba-2a37-0410-a25d-8f53c91a5765"
+   repos="https://qhexed.svn.sourceforge.net/svnroot/qhexed"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="PTraceModel.cc"
+   text-time="2007-08-08T17:20:53.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="e6dcd4a8b825cecfac67233205042762"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="OpenProcessDialog.cc"
+   text-time="2007-08-08T17:20:53.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="5367d859a732f628d2e74a7be173a5d8"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="PTraceModel.h"
+   text-time="2007-08-08T17:20:53.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="c0d1cf030c928fca2263a305939766cc"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="OpenProcessDialog.h"
+   text-time="2007-08-08T17:20:53.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="d03a6c2701c6eb30d18a836c0a19c5da"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="UnixProcessAccess.cc"
+   text-time="2007-08-08T17:20:53.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="284099c6b9f3f0e859eb7c0262955a2d"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="UnixProcessAccess.h"
+   text-time="2007-08-08T17:20:53.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="8f8811a48f7d5d6bb397543adb79702c"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile"
+   text-time="2007-08-08T17:20:53.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="3292ca3d21d7364a5dddda36e9390da7"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:53.000000Z"/>
+</wc-entries>

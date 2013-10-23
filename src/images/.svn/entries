@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-08-08T07:21:34.172055Z"
+   url="https://qhexed.svn.sourceforge.net/svnroot/qhexed/qhexed/src/bin/qhexed/images"
+   last-author="exanode"
+   kind="dir"
+   uuid="52a813ba-2a37-0410-a25d-8f53c91a5765"
+   repos="https://qhexed.svn.sourceforge.net/svnroot/qhexed"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="save.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="2363a0ae6116fad1cea7ecba94fcb92b"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="settings.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="77c8a21be10836e28b18f0a48ea05763"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="circle.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="425618fae679513f350414298ec0ea4e"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="rectangle.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="b48af9dbbf0326f2737787f0f9290939"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="1d3aeac2c2bd902a69e061af348b1fd0"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="undo.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="857894877104e3542204d2220f496401"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="down.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="4a3320a2f39e286afc98c152a8714c18"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="copy.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="c5508b54f7c4edad48558b605daef69f"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="textitalic.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="943690ff6543cd17a4795ed227567110"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="zoomin.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="d8ff4b87972d224d79e5398524000fe0"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="deadbeef.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="bdb193d103ec4963abd5fc929558b310"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="textunder.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="cebcb68a962cd300ff4f53a954e613be"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plus.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="0a5c77334c9606613db1b4432deb161b"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="textbold.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="42cb17f1a617d91c64ff56d3586f5108"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="new.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="b17f3d93196350eae75c0b4e1dadc579"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="redo.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="92f0a02398def891adee936966c8fa7e"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="minus.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="052528f986cecef107c94fb7aab84ba1"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cut.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="789968b9e826e718e771e9f270d87814"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="print.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="ed20455ad32391a80a81b324b2da2396"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="rotateright.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="3da888539d744194efd645d6fe1bb6e5"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="remove.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="5e5f37083b03dfe2885626ca5a661aec"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="back.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="7153d4933af299f4c0f58cd6e84271c2"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="open.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="b4f00e0e4aa478db0d93a6ba617ef28f"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="forward.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="7b53588b646ce6a63febf4a3d335bb82"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="triangle.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="f231dc78f1081a04e1bdab7c1a1c3649"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="paste_over.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="08281684334649a2b9fc199acc630511"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="exit.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="1d64c32dda48159518461bbfd44b890c"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ok.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="ac2cd6c00101150fda194f471826b719"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="rotateleft.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="ec8e20f07707332e4e2d52c2034a975b"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="star.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="3355d2670604688a298742b717204df6"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="paste.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="6a4274a913966d4e8c2076ff658c52a4"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="zoomout.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="acfbcef947a0a411535ab9b520004d7e"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="process.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="ea420be083f91a6b6c3787ef716fbe27"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="next.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="8edc2b86c865aa38b936a198f5a67c80"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="whatsthis.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="0da42d95d5660872b91ad803358fa1ec"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="load.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="e0e3aac02dc4da2844cf3f39cf758de1"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="text.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="077b6976d3d1369ecc1334103f3f6419"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="up.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="84f0508ab23193a0a99786bc597f21c5"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="debug.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="e21e47ec92f2caae2d97aae039a8cf2b"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cross.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="a0fdf657ed5df763b2eb3ee65c912f54"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="book.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="8201ae126312515c338f02a20e50fe90"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="mark.png"
+   text-time="2007-08-08T17:20:55.000000Z"
+   committed-date="2007-08-08T07:21:34.172055Z"
+   checksum="6655fc42ae80ed426028e2dc2fa060f8"
+   last-author="exanode"
+   kind="file"
+   prop-time="2007-08-08T17:20:55.000000Z"/>
+</wc-entries>
